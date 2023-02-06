@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "11537495167",
+    "project_id": "bills-a5815",
+    "storage_bucket": "bills-a5815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11537495167:android:4039278250db790b9bbb4a",
+        "android_client_info": {
+          "package_name": "com.example.homeutilisbills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11537495167-ejss3bnffnmq1a83jhsca804kk8dbthh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeutilisbills",
+            "certificate_hash": "a474abe8a35e6d14ad0f255ba160b0572e1d3fb5"
+          }
+        },
+        {
+          "client_id": "11537495167-etkr9ascs8tlrjp32026s6sqekjeu79r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPhPNkPLRveGsj_KFonTOyOemEduV2es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11537495167-etkr9ascs8tlrjp32026s6sqekjeu79r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
